@@ -5,7 +5,7 @@ export ARCH=arm
 echo 'exporting Arch'
 export SUBARCH=arm
 echo 'exporting SubArch'
-export CROSS_COMPILE=/home/aospal/n7/prebuilts/gcc/inux-x86/arm/arm-eabi-4.9/bin/arm-eabi-
+export CROSS_COMPILE=/home/aospal/n7/prebuilts/gcc/linux-x86/arm/arm-eabi-4.9/bin/arm-eabi-
 echo 'exporting Cross Compile'
 
 # Make sure build is clean!
